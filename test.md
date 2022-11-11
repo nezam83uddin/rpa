@@ -24,7 +24,11 @@ Leading Zero
 
 
 
-## String Operation
+## String Operation 01
 
-String operation expressions using [String Operation](https://forum.uipath.com/t/how-to-manipulate-a-part-of-string-split-trim-substring-replace-remove-left-right/140180):
+String operation expressions using [String Operation](https://forum.uipath.com/t/how-to-manipulate-a-part-of-string-split-trim-substring-replace-remove-left-right/140180)
+
+## String Operation 02
+
+String operation expressions using [String Operation](https://github.com/nezam83uddin/rpa/blob/main/String.md)
 
