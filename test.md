@@ -32,3 +32,7 @@ String operation expressions using [String Operation](https://forum.uipath.com/t
 
 String operation expressions using [String Operation](https://github.com/nezam83uddin/rpa/blob/main/String.md)
 
+# RegEx Operation 
+
+String operation expressions using [String Operation](https://github.com/nezam83uddin/rpa/blob/main/String.md)
+
