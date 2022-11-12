@@ -15,7 +15,6 @@ Youtube [Youtube](https://regex101.com/r/xyKKg6/1) Screenshot [Sereenshot](https
 |                 Syntax            |   Uses                        |DataType                     |Process link                     |
 |-----------------------------------|-------------------------------|-----------------------------|---------------------------------|
 |Dt2 = Dt1.Clone Dt2=Dt1.AsEnumerable().Take(50).CopyToDataTable()                |Taking top N Rows             |     DataTable                        |[Link](https://regex101.com/r/xyKKg6/1)  |
-
 |drLastVar = dtData.AsEnumerable.Last()                |Taking last row from dataTable            |     DataTable                        |[Link](https://regex101.com/r/xyKKg6/1)  |
 
 
